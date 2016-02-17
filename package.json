@@ -1,0 +1,17 @@
+{
+  "name": "parse-github-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jon Lauridsen",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "simple-strings.js": "e-conomic/simple-strings.js"
+  },
+  "devDependencies": {
+    "lodash": "^4.5.0",
+    "mocha": "^2.3.4",
+    "must": "^0.13.1"
+  }
+}

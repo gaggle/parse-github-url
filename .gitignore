@@ -1,0 +1,7 @@
+# project files
+.idea
+*.iml
+
+# auto-generated
+node_modules
+.git
